@@ -8,6 +8,7 @@
  <body>
   <h1 style="text-align:center;">Empleados</h1>
   <img src="images/Butchers.jpg" align="left"> 
+  <img src="images/Starbucks.png" align="left"> 
 	 <table>
 	  <tr>
       <td>ID</td>
