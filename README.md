@@ -2,7 +2,7 @@
 
 This application demonstrates a simple, reusable PHP web application.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/php-helloworld)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?https://github.com/JonathanPM16/PHPButcherAndSonsJonathanPerales/blob/master/index.php)
 
 ## Run the app locally
 
