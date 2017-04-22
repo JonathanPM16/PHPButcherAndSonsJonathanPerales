@@ -7,7 +7,8 @@
  </head>
  <body>
   <h1 style="text-align:center;">Empleados</h1>
-  <table>
+  <img src="images/Butchers.jpg" align="left"> 
+	 <table>
 	  <tr>
       <td>ID</td>
       <td>Nombre</td>
